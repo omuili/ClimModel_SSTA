@@ -10,4 +10,4 @@ This model looks at the forecast air temperature anomaly, in Celsius, for the mo
 ## Precipitation Anomaly
 The model also examines precipitation rate anomaly in mm/second for the month of March 2019. Negative values (blues) indicate below-normal monthly precipitation while positive values (yellows, oranges) indicate above-normal monthly precipitation.
 
-The interactive map can be found here https://olanrewajumuili.github.io/My-Map-Website/
+The interactive map can be found here https://olanrewajumuili.github.io/MyClimMod.Website/
