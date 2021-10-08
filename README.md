@@ -1,7 +1,7 @@
 # ClimModel_SSTA
-This interactive climate model is based on seasonal forecast data sets from Copernicus.
+This interactive climate model is based on seasonal forecast data sets from Copernicus. 
+In the climate forecasting space, anomalies are often the most frequently examined data. It helps us to understand how much warmer, cooler, drier, or wetter than normal an area may be. Therefore, this climate model looks at forecast anomalies through the Copernicus sea surface temperature anomaly(SSTA) data. I used the python CDSAPI to access the climate data store on Copernicus website.
 
-In the climate forecasting space, anomalies are often the most frequently examined data. It helps us to understand how much warmer, cooler, drier, or wetter than normal an area may be. Therefore, this climate model looks at forecast anomalies through the Copernicus sea surface temperature anomaly(SSTA) API.
 Anomalies 
 
 ## Air Temperature Anomaly
